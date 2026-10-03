@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频拉片与镜头分析"
+  short_description: "检测并分析视频镜头、景别与运镜，输出镜头表和交互式拉片报告"
+  default_prompt: "使用 $video-shots 检测并分析视频镜头、景别与运镜，输出镜头表和交互式拉片报告；先核对输入、可用能力和交付要求。"

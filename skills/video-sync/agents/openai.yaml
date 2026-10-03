@@ -1,0 +1,4 @@
+interface:
+  display_name: "分镜信息同步视频"
+  short_description: "将原片与镜头分析信息合成为同步视频，保留原片比例和镜头时序"
+  default_prompt: "使用 $video-sync 将原片与镜头分析信息合成为同步视频，保留原片比例和镜头时序；先核对输入、可用能力和交付要求。"
